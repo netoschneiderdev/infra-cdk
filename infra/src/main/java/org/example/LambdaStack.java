@@ -1,4 +1,4 @@
-package com.myorg;
+package org.example;
 
 import software.amazon.awscdk.Duration;
 import software.amazon.awscdk.services.lambda.Code;
